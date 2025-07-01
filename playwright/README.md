@@ -1,7 +1,5 @@
 # Playwright E2E Starter
 
-## Instalação
-
 ```bash
 npm install
 ```

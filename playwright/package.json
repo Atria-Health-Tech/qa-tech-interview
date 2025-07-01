@@ -1,0 +1,13 @@
+{
+  "name": "playwright-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test --headed",
+    "codegen": "npx playwright codegen",
+    "postinstall": "npx playwright install"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+} 

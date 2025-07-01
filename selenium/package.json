@@ -1,0 +1,11 @@
+{
+  "name": "selenium-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^4.18.0"
+  }
+} 

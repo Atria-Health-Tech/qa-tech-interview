@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "npx playwright test --headed",
+    "test": "npx playwright test --headed --project=chromium",
     "codegen": "npx playwright codegen",
     "postinstall": "npx playwright install"
   },
